@@ -50,4 +50,4 @@ expiration tracking → automated alerts → auditable compliance status.
 
 Source code is private while this moves toward a commercial release.
 Happy to give a live demo or a private repo walkthrough — reach out
-via [LinkedIn link] or [email].
+via Ronrichardsonit@gmail.com
